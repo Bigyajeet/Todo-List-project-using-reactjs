@@ -11,5 +11,7 @@ Currently, two official plugins are available:
 # Todo-List-project-using-reactjs
 >>>>>>> 36c894872829b6a12aa55e7b9e6a84c4c141a3da
 <img width="1905" height="1020" alt="image" src="https://github.com/user-attachments/assets/1d679f46-0486-4c28-afac-f2b465691383" />
+<img width="1910" height="1019" alt="image" src="https://github.com/user-attachments/assets/b53458f3-5de3-43a6-837b-2e62b01bb684" />
+
 
 
